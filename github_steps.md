@@ -6,3 +6,6 @@ Describe in your own words how to establish a connection between a local reposit
 ## Additional Changes
 - *I am interested in potential remote-local connection alternatives.*
 - *I am not interested enough to seek out that information now.*
+
+### Further Changes
+I dunno, I'm kind of out of ideas at this point.
